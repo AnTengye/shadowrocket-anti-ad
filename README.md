@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/AnTengye/shadowrocket-anti-ad/master/rules/sr-
 
 
 ## Number of historical stars
-![](https://starchart.cc/Shu-Ji/shadowrocket-anti-ad.svg)
+![](https://starchart.cc/AnTengye/shadowrocket-anti-ad.svg)
 
 ## Views
 ![](http://profile-counter.glitch.me/shadowrocket-anti-ad/count.svg)
