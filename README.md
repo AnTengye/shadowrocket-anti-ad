@@ -16,7 +16,7 @@
 小火箭中底部切换到「配置」选项卡，右上点击「+」，填入以下链接后点击「下载」：
 
 ```
-https://raw.githubusercontent.com/Shu-Ji/shadowrocket-anti-ad/master/rules/sr-anti-ad.conf
+https://raw.githubusercontent.com/AnTengye/shadowrocket-anti-ad/master/rules/sr-anti-ad.conf
 ```
 
 <img src="https://user-images.githubusercontent.com/1127594/136726592-5cce4315-db1b-41b5-9e54-d97de3f7cba2.PNG" width="200">
